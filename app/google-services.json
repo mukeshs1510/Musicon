@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694274935982",
+    "project_id": "musicon-project",
+    "storage_bucket": "musicon-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694274935982:android:709281a116ad8fa7fc713f",
+        "android_client_info": {
+          "package_name": "com.mbs.musicon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694274935982-ug97jo4mvd3qklv3so7vj0p5a51akgpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMjcEXgxWVKDBZ9CEjAU00OfApdE56rOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694274935982-ug97jo4mvd3qklv3so7vj0p5a51akgpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
