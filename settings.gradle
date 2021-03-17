@@ -1,2 +1,3 @@
+include ':adminmusicon'
 include ':app'
 rootProject.name = "Musicon"
