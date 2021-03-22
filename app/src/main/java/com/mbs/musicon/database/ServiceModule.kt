@@ -19,6 +19,10 @@ object ServiceModule {
 
     @ServiceScoped
     @Provides
+    fun provideMusicDatabase() = SongsDB()
+
+    @ServiceScoped
+    @Provides
     fun provieAudioAttributes() = AudioAttributes.Builder()
         .setContentType(C.CONTENT_TYPE_MUSIC)
         .setUsage(C.USAGE_MEDIA)
